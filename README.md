@@ -1,6 +1,6 @@
 # Select more lines
 
-Inspired by the `Expand Line Selection` (`ctrl + l` by default) of VSCode. It functions similarly to SelectLine, but if there's already a selection, the cursor select the next line. There's no default binding, so you'll have to bind it yourself. For example:
+Inspired by the `Expand Line Selection` (`ctrl + l` by default) of VSCode. It functions similarly to `SelectLine`, but if there's already a selection, the cursor select the next line. There's no default binding, so you'll have to bind it yourself. For example:
 
 ```json
 {
